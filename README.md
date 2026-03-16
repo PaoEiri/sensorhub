@@ -41,7 +41,7 @@ just lint         # ruff
 just check        # lint + format + types + tests
 ```
 
-## Bump & release
+## Bump & release  prueba
 
 ```bash
 just bump-patch   # 0.1.0 → 0.1.1
