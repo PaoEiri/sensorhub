@@ -4,6 +4,7 @@ REST API for IoT environmental monitoring. Sensors send temperature, humidity an
 
 ## Stack
 
+
 - **FastAPI** — Python 3.12
 - **MongoDB** — readings storage
 - **MinIO** — report storage (S3-compatible)
