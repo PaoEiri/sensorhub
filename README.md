@@ -4,6 +4,7 @@ REST API for IoT environmental monitoring. Sensors send temperature, humidity an
 
 ## Stack
 
+
 - **FastAPI** — Python 3.12
 - **MongoDB** — readings storage
 - **MinIO** — report storage (S3-compatible)
@@ -40,7 +41,7 @@ just lint         # ruff
 just check        # lint + format + types + tests
 ```
 
-## Bump & release
+## Bump & release  prueba
 
 ```bash
 just bump-patch   # 0.1.0 → 0.1.1
